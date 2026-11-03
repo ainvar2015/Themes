@@ -1,4 +1,4 @@
-Tema css para el frontend de ainvarCMS
+#Tema css para el frontend de ainvarCMS
 
 Aquí hay 3 ejemplos de temas sencillos para ainvarCMS:
 
